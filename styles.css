@@ -4,7 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-verde-efeito: rgb(209, 42, 209);
+    --botao-verde-efeito: rgba(42, 209, 131, 0.781);
 }
 
 body {
